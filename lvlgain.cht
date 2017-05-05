@@ -1,0 +1,5 @@
+cheat = 1
+
+cheat1_desc = "high lvl gain"
+cheat1_code = "80042738 02EE"
+cheat1_enable = false
